@@ -1,0 +1,91 @@
+__     __                               _ 
+\ \   / /                              | |
+ \ \_/ /__  _   _  __      _____  _ __ | |
+  \   / _ \| | | | \ \ /\ / / _ \| '_ \| |
+   | | (_) | |_| |  \ V  V / (_) | | | |_|
+   |_|\___/ \__,_|   \_/\_/ \___/|_| |_(_)
+
+You managed to escape this wierd building!
+You hope you will never see it again.
+As you walk away from the building you feel very, very happy.
+
+
+Hello, developer here! Thank you very much for playing my game.
+It started as an experiment to see if it's possible to make a game
+out of a batch script, but it became a complete game.
+It turned out to be pretty hard and very time consuming, but it's
+probably the most complex batch script I'll ever write.
+Also, thank you for not hating on me because I don't know a real
+programming language. I'm thinking of trying to learn Python, and
+if I manage to do that, I'll rewrite this in that. You have my
+promise (maybe).
+
+Anyway, I'd like to thank Johan, my best friend, for giving me this
+idea by trying to do it himself and fail completely.
+
+I used a couple of external programs in this game:
+	messagebox.exe by Optimum X for displaying graphical message boxes,
+	random.exe by Optimum X for generating a random number easily (yes, I'm aware of %random%
+	but it's hard to use),
+	initool.exe by Optimum X for loading saves,
+	nircmdc.exe by NirSoft for waiting 1000 milliseconds,
+	choice.exe by Microsoft. I included this for compatibility with some Windows versions.
+	
+I used the ascii generator at www.network-science.de/ascii/ to make
+the text seen in this game. The fonts I used are called Alligator2 and
+Big. I also used some ascii art from www.asciiworld.com.
+
+But anyway, once again...
+
+
+
+
+::::::::::::::    :::    :::    ::::    ::::::    :::::::::::  
+    :+:    :+:    :+:  :+: :+:  :+:+:   :+::+:   :+::+:    :+: 
+    +:+    +:+    +:+ +:+   +:+ :+:+:+  +:++:+  +:+ +:+        
+    +#+    +#++:++#+++#++:++#++:+#+ +:+ +#++#++:++  +#++:++#++ 
+    +#+    +#+    +#++#+     +#++#+  +#+#+#+#+  +#+        +#+ 
+    #+#    #+#    #+##+#     #+##+#   #+#+##+#   #+##+#    #+# 
+    ###    ###    ######     ######    #######    ###########  
+
+:::::::::::::::::: :::::::::  
+:+:      :+:    :+::+:    :+: 
++:+      +:+    +:++:+    +:+ 
+:#::+::# +#+    +:++#++:++#:  
++#+      +#+    +#++#+    +#+ 
+#+#      #+#    #+##+#    #+# 
+###       ######## ###    ###  	
+
+::::::::: :::           :::  :::   ::::::::::::::::::    ::: :::::::: ::: 
+:+:    :+::+:         :+: :+::+:   :+:    :+:    :+:+:   :+::+:    :+::+: 
++:+    +:++:+        +:+   +:++:+ +:+     +:+    :+:+:+  +:++:+       +:+ 
++#++:++#+ +#+       +#++:++#++:+#++:      +#+    +#+ +:+ +#+:#:       +#+ 
++#+       +#+       +#+     +#+ +#+       +#+    +#+  +#+#+#+#+   +#+#+#+ 
+#+#       #+#       #+#     #+# #+#       #+#    #+#   #+#+##+#    #+#    
+###       #############     ### ###   ##############    #### ######## ### 
+
+
+
+
+        @@@@@@           @@@@@@
+      @@@@@@@@@@       @@@@@@@@@@
+    @@@@@@@@@@@@@@   @@@@@@@@@@@@@@
+  @@@@@@@@@@@@@@@@@ @@@@@@@@@@@@@@@@@
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+      @@@@@@@@@@@@@@@@@@@@@@@@@@@
+        @@@@@@@@@@@@@@@@@@@@@@@
+          @@@@@@@@@@@@@@@@@@@
+            @@@@@@@@@@@@@@@
+              @@@@@@@@@@@
+                @@@@@@@
+                  @@@
+                   @
+
+

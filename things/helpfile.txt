@@ -1,0 +1,30 @@
+---------- HELP FILE ----------
+
+This game is a parody of text based adventure games. That said, you will
+have to figure out most of the commands yourself (because some of them
+are just jokes), but here are some basic commands to get you started:
+
+n, s, w, e, u, d - Directional commands, pretty standard amongst text
+                   based adventure games. The letters are abbreviations
+		   of north, south, west, east, up and down.
+
+save, load - Saves/restores your progress. You have five save files to
+             save to/load from.
+
+open, take, lift, read, kill, eat - Also common in text based adventure
+                                    games. Pretty much self explanatory.
+                                    Please note that you cannot type for
+				    example "take key(enter)", you have
+				    to type "take(enter)key(enter)".
+
+look, whoami, whereami, whenami - Provides information about what you can
+                                  see/who you are/where you are/what time
+                                  it is.
+
+exit - Quits the game. Make sure to save first!
+
+viewthehelpfileplz - Displays this file.
+
+Good luck!
+
+---------- HELP FILE ----------

@@ -1,0 +1,45 @@
+__.-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.__
+     `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   
+
+ ::::::::::::::    :::::::::::::   ::::::::     :::    ::::    :::: :::::::::: 
+     :+:    :+:    :+::+:         :+:    :+:  :+: :+:  +:+:+: :+:+:+:+:        
+     +:+    +:+    +:++:+         +:+        +:+   +:+ +:+ +:+:+ +:++:+        
+     +#+    +#++:++#+++#++:++#    :#:       +#++:++#++:+#+  +:+  +#++#++:++#   
+     +#+    +#+    +#++#+         +#+   +#+#+#+     +#++#+       +#++#+        
+     #+#    #+#    #+##+#         #+#    #+##+#     #+##+#       #+##+#        
+     ###    ###    #############   ######## ###     ######       ############# 
+	
+                           The Game by Ludvig Holtze
+                                Version 1.4.4.2
+
+__.-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.__ 
+     `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   `._.'   
+
+Changelog:
+	V1.4.4.2
+		- Fuck
+		- Bug fixes
+	V1.4.4.1
+		- Fixed a bug where some keys where not displayed when using lookwi
+	V1.4.4
+		- Changed two easter eggs :)
+		- Added another easter egg :)
+	V1.4.3
+		- Added "hi" and "hello".
+		- Tweaked some things
+	V1.4.2
+		- Removed debug: commands, added xyzzy command instead
+		- Fixed a bug where title remained Please Wait... when you are asked if
+			you want to read the help file
+	V1.4.1
+		- Made all progress reset upon death
+		- Version command now uses the more command
+	V1.4
+		- Started using ini files for saves
+		- Modified launch system
+		- Wrote the help file
+		- Fixed a couple of bugs
+		- Started writing changelog :D
+	V1.3
+		- Added color command
+		- Probably did something else as well which I don't remember
