@@ -2,7 +2,7 @@
 A shitty text adventure I made in 2013
 
 # Installation instructions
-Download initool.exe, random.exe, messagebox.exe and nircmdc.exe anb place them in things.
+Download initool.exe, random.exe, messagebox.exe and nircmdc.exe and place them in things.
 
 http://www.optimumx.com/download/iniTool.zip
 
